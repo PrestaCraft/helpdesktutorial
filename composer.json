@@ -1,0 +1,11 @@
+{
+  "name": "prestacraft/helpdesktutorial",
+  "description": "Help developers to understand how to create module using PrestaShop 1.7 (up to 1.7.6) and it's new features",
+  "autoload": {
+    "psr-4": {
+      "PrestaCraft\\HelpdeskTutorial\\": "src/"
+    }
+  },
+  "author": "PrestaCraft",
+  "type": "prestashop-module"
+}
